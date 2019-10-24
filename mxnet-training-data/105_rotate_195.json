@@ -1,0 +1,1 @@
+{"image_size": [{"width": 1280, "height": 720, "depth": 3}], "file": "105_rotate_195.png", "annotations": [{"left": 102, "top": 112, "height": 187, "width": 101, "class_id": "21"}, {"left": 758, "top": 392, "height": 184, "width": 174, "class_id": "3"}], "categories": [{"class_id": "21", "name": "bombs"}, {"class_id": "3", "name": "handphone"}]}
